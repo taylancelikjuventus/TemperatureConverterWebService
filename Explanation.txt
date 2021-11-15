@@ -1,2 +1,3 @@
 A SOAP based Web Service written in Java.
+It has Server and Client Programs.
 
