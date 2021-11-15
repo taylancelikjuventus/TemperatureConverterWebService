@@ -1,1 +1,2 @@
-All explanations are given in rar file.
+A SOAP based Web Service written in Java.
+
